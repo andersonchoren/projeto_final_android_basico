@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APPLogin</string>
+    <string name="label_input_email">Email</string>
+    <string name="label_input_password">Senha</string>
+    <string name="label_button_login">Entrar</string>
+    <string name="label_button_register">Registre-se</string>
+    <string name="label_input_password_repeat">Repetir senha</string>
+    <string name="label_password_not_combine">As senhas não combinam!!!</string>
+    <string name="label_empty_fields">Preencha todos os campos!!!</string>
+    <string name="label_insert_confirm">"Usuário cadastrado com sucesso!!!"</string>
+    <string name="label_invalid_informations">"Usuário ou senha inválidos!!!"</string>
+    <string name="label_welcome">"Bem-vindo ao nosso sistema!!!"</string>
+    <string name="label_male_gender">Masculino</string>
+    <string name="label_female_gender">Feminino</string>
+</resources>
